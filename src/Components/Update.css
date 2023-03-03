@@ -1,0 +1,54 @@
+.update-form {
+    margin-top: 100px;
+    margin-left: 200px;
+    width: 40%;
+    height: 250px;
+    background-color: beige;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.update-form label {
+    margin-right: 10px;
+    font-size: 20px;
+
+}
+
+.update-form input {
+    width: 70%;
+    height: 28px;
+
+}
+
+.update-form__name {
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+
+}
+
+.update-form__age {
+    margin-left: 50px;
+    margin-bottom: 15px;
+    
+}
+.update-form__age label {
+    margin-right: 28px;
+}
+
+.update-form__email {
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.update-form__email label {
+    margin-right: 20px;
+}
+
+.update-form__button {
+    margin-left: 180px;
+    margin-top: 30px;
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+}
