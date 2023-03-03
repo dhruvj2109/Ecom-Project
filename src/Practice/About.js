@@ -7,6 +7,7 @@ const AboutUs = () => {
     return (
         <div>
             <p>This is a {location.pathname} Page</p>
+            <p>Helllllllo</p>
         </div>
     );
 };
