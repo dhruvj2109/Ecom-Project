@@ -7,7 +7,11 @@ const AboutUs = () => {
     return (
         <div>
             <p>This is a {location.pathname} Page</p>
+<<<<<<< HEAD
             <p>Helllllllo</p>
+=======
+            <p>hello this is for duplicate branch</p>
+>>>>>>> duplicate
         </div>
     );
 };
